@@ -5,7 +5,7 @@ This is the source code repository of Python data loader for the ESA CLS project
 ## Installation and dependencies
 
 Code in 'dataloader.ipynb' runs on the dataset provided at [MAPS dataset](https://huggingface.co/datasets/CCHT-IIT/Palaeochannels).
-Among other classical dependencies it requires the installation of the libraries in 'requirements.txt'
+The required packages are liste in the 'requirements.txt'
 
 ## Description
 
